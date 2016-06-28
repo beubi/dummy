@@ -2,4 +2,6 @@
 
 stage 'Trying'
 
-echo 'A msg'
+echo 'A NEW msg'
+
+this will fail!!!
