@@ -2,4 +2,4 @@
 
 stage 'Trying'
 
-echo 'A msg'
+echo 'A msg...'
